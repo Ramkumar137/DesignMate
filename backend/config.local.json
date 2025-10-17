@@ -1,0 +1,5 @@
+
+{
+    "GEMINI_API_KEY": "your-gemini-api-key",
+    "HF_API_KEY": "your-hugging-face-key"
+  }
